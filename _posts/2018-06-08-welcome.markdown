@@ -4,10 +4,4 @@ title:  "Hello World!"
 date:   2018-06-08 14:09:35 +0200
 categories: personal
 ---
-Hello there, I am Bishwa Hang Rai and I am Software Developer at [Freeletics][freeletics]. In past I worked at [Experteer][experteer]
-I completed my Bachelors in Computer Engineering from Institute of Engineering, Pulchowk Campus and my Master's in Computer Science from Technical University of Munich.
-I worked as Research Assistant at Seclab, UC Santa Barbara for my [Master's Thesis][master-thesis].
-
-[freeletics]: https://freeletics.com
-[experteer]: https://experteer.com
-[master-thesis]: https://github.com/bishwahang/tum-thesis
+Hello there, I am Bishwa Hang Rai. [more about me...](/about)
