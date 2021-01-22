@@ -24,6 +24,12 @@ show_excerpts: true
 twitter_username: hang_bishwa
 github_username: bishwahang
 linkedin_username: bishwahang
+social:
+    name: Bishwa Hang Rai
+    links:
+      - https://twitter.com/hang_bishwa
+      - https://www.linkedin.com/in/bishwahang
+      - https://github.com/bishwahang
 
 # Build settings
 markdown: kramdown
