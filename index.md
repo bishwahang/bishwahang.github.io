@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![mardi-hike](images/cover.jpg){:class="img-responsive"}
