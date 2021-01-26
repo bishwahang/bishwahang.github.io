@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Hello World!"
-date:   2018-06-08 14:09:35 +0200
-categories: personal
----
-Hello there, I am Bishwa Hang Rai. [more about me...](/about)
