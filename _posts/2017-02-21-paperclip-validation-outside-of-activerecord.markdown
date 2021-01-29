@@ -2,7 +2,7 @@
 layout: post
 title:  "Paperclip Validation outside of ActiveRecord"
 date:   2017-02-21 09:00:00 +0100
-author: bishwa
+author: Bishwa Hang Rai
 categories: programming
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Scaling Authorized Content Access in microservice Architecture"
-author: bishwa
+author: Bishwa Hang Rai
 ---
 
 ## Background

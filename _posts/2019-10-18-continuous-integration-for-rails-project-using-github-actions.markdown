@@ -2,7 +2,7 @@
 layout: post
 title:  "Continuous Integration for Rails project using Github Actions"
 date:   2019-10-18 11:00:00 +0100
-author: bishwa
+author: Bishwa Hang Rai
 categories: programming
 ---
 
